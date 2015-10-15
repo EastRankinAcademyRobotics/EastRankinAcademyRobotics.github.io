@@ -1,0 +1,11 @@
+# Site settings
+title: East Rankin Academy Robotics Programming Team
+#email: your-email@domain.com
+description: > # this means to ignore newlines until "baseurl:"
+       Team coordination site for the East Rankin Academy Robotics Programming Team
+url: "http://eastrankinacademyrobotics.github.io/" # the base hostname & protocol for your site
+paginate: 10
+
+# Build settings
+markdown: kramdown
+permalink: pretty
