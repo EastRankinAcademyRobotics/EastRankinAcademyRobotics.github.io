@@ -1,11 +1,17 @@
 # Site settings
-title: East Rankin Academy Robotics Programming Team
-#email: your-email@domain.com
-description: > # this means to ignore newlines until "baseurl:"
-       Team coordination site for the East Rankin Academy Robotics Code Team
-url: "http://eastrankinacademyrobotics.github.io/" # the base hostname & protocol for your site
-paginate: 10
+title: Robot Code @ ERA
+header-img: img/robotics.jpg
+#email: your-email@yourdomain.com
+description: "Team coordination site for the East Rankin Academy Robotics Code Team"
+baseurl: ""
+url: "http://eastrankinacademyrobotics.github.io"
+#twitter_username: SBootstrap
+#github_username:  davidtmiller
+#facebook_username:  IronSummitMedia
 
 # Build settings
 markdown: kramdown
+highlighter: pygments
 permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]

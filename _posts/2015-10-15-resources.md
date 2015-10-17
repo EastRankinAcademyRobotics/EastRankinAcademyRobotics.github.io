@@ -2,7 +2,7 @@
 layout: post
 title:  "Introductory Robot Programming Resources"
 date:   2015-10-15 12:45:51
-categories: resources
+header-img: ""
 ---
 Here are some resources I've found helpful so far:
 

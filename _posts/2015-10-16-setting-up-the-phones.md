@@ -2,7 +2,7 @@
 layout: post
 title:  "Setting up the Phones"
 date:   2015-10-16 4:04
-categories: resources
+header-img: ""
 ---
 Today we concentrated on unpacking the phones, a pair of Boost Mobile Android ZTE Speed phones. We followed [the directions](https://youtu.be/n597U6rcl2Y) posted by Phil Malone (GEARSinc) on YouTube to get through the initial setup and prep the phones to have our code downloaded to them from Android Studio.
 
