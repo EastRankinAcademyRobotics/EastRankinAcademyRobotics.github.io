@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Installing the SDK"
-date:   2015-10-16 12:04
+date:   2015-10-26 12:04
 header-img: ""
 ---
 After setting the phones up we installed [Android Studio](http://developer.android.com/sdk/index.html?gclid=Cj0KEQjwnrexBRDNmZzNkf7c4c4BEiQALnlxhcCDaf8a_J0w0BxSlF-E7gwb6c2YkBwud2lyrYOR0mIaAmpa8P8HAQ) and the FirstTech Challenge Software Development Kit (SDK) [from Github](https://github.com/ftctechnh/ftc_app), following the instructions in [this video](https://www.youtube.com/watch?v=UtKbbi31PWc&feature=youtu.be).
