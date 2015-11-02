@@ -2,7 +2,7 @@
 layout: post
 title:  "Halloween Build Day"
 date:   2015-10-31 22:45:51
-header-img: "assets/2015-10-31/haunted_hous1.jpg"
+header-img: "assets/2015-10-31/workshop_build.jpg"
 ---
 Today the build team met at the workshop and constructed the base robot frame with two motor controllers, each controlling two motors (one for each wheel). After they finished the code team started the process of trying to control the robot.
 
